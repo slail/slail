@@ -3,7 +3,7 @@ slail/slail is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-- 👋 Hi, I’m @slail
+👋 Hi, I’m @slail
 <br>👀 I'm currently working on a Python Selenium Bot that watches listing on Mercari to update me on the most recent posting on iPhone 13s, and tell me whether or not it's a "good" deal by looking at price and also the seller's ratings.<br>🧑‍🤝‍🧑 I'm looking to collaborate with anyone who has experience with selenium and creating an effective bot.<br>🤝 I'm looking for help with making this bot as accurate as possible and minimizing false positives (Bad listings, that the bot suspected to be "good")<br>🌱 I'm currently learning more about Python Selenium, which includes web scraping and web browser automation. <br>💬 Ask me about why I decided to take on this challenge.<br>⚡Fun Fact: It was because I'm a cheap-stake at times, and want to save money while shopping online during the holidays. <br> 📫 How to reach me sbillicko@gmail.com
 
 
