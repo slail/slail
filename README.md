@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Slail Billicko Jean Pierre</h1>
 <h3 align="center">A passionate FullStack developer from New York City</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I’m currently working on [Booking.com Deals Bot](https://github.com/slail/findFlightsBot)
-
-- 🌱 I’m currently learning **Python Selenium, Advanced Python OOP**
-
-- 💬 Ask me about **Python Selenium, REACT**
-
-- 📫 How to reach me **sbillicko@gmail.com**
-
-- ⚡ Fun fact **I'm a twin!**
-
+<ul>
+  <li>🔭 I’m currently working on: <a href = "https://github.com/slail/findFlightsBot"> Booking.com Selenium Bot </a></li>
+  <li>🌱 I’m currently learning: Python Selenium, Advanced Python OOP</li>
+  <li>💬 Ask me about: TypeScript, REACT</li>
+  <li>📫 How to reach me: <em>sbillicko@gmail.com</em></li>
+  <li>⚡ Fun fact: <strong>I'm a twin!</strong></li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/slail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="slail" height="30" width="40" /></a>
