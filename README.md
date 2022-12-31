@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack developer from New York City</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <ul>
-  <li>🔭 I’m currently working on: <a href = "https://github.com/slail/findFlightsBot"> Booking.com Selenium Bot </a></li>
+  <li>🔭 I’m currently working on: <a href = "https://github.com/slail/mercariBot"> Mecari Selenium Bot </a></li>
   <li>🌱 I’m currently learning: Python Selenium, Advanced Python OOP</li>
   <li>💬 Ask me about: TypeScript, REACT</li>
   <li>📫 How to reach me: <em>sbillicko@gmail.com</em></li>
